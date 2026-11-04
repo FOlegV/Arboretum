@@ -10,7 +10,7 @@ distill_layer: 1
 created: <% tp.date.now("YYYY-MM-DD") %>
 tags:
   - источник
-  - youtube
+  - domain/видео
 ---
 
 # <% tp.file.title %>
