@@ -1,12 +1,5 @@
 # Obsidian — локальное состояние (не хранить в репозитории)
-.obsidian/workspace.json
-.obsidian/workspaces.json
-.obsidian/graph.json
-.obsidian/types.json
-.obsidian/plugins/*/data.json
-.obsidian/plugins/*/data.json.*
-.obsidian/themes/*/theme.css
-.obsidian/app.json
+.obsidian/
 
 # Системные файлы
 .DS_Store
